@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Results summary component](https://your-solution-url.com)
+- Solution URL: [Results summary component](https://github.com/dayronfurcain/results-summary-component)
 - Live Site URL: [Results summary component](https://your-live-site-url.com)
 
 ## My process
